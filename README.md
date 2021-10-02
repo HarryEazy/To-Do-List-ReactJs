@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# todo-list-react
 
-## Available Scripts
+Simple todo list created using React.js to get some experience using React.js.
 
 In the project directory, you can run:
 
